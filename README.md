@@ -13,4 +13,4 @@ I'm **SEONGWOOK**, a **Data Engineer** who designs and automates data flows.
 --- 
 #### Contact
 - Email: songmanship12@gmail.com
-- Blog : ![SWJourney](https://sswoook.github.io/)
+- Blog : <a href="https://sswoook.github.io">SWJourney</a>

@@ -6,9 +6,9 @@ I'm **SEONGWOOK**, a **Data Engineer** who designs and automates data flows.
 - I enjoy structuring complex problems and automating repetitive tasks
 ---
 #### Tools & Tech
-- Python, JAVA, Swift   
+- Python, JAVA, Swift, C++, C   
 - AWS Services...
-- Linux, Container...
+- Linux, Cisco Network...
 - AI/ML
 --- 
 #### Contact

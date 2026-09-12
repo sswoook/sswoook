@@ -1,16 +1,15 @@
 ### Hey there 🤗  
-I'm **SEONGWOOK**, a **Data Engineer** who designs and automates data flows.
-
-- I'm interested in large-scale data pipelines and building stable ETL/ELT architectures  
-- I value **production-ready data systems** over code that simply “works”  
-- I enjoy structuring complex problems and automating repetitive tasks
+I'm **SEONGWOOK**, a Network Engineer who designs and automates network infrastructure.
+- I'm interested in building scalable L2/L3 network architectures and high-availability systems
+- I value production-ready network stability over configurations that simply “work”
+- I enjoy troubleshooting complex routing/switching issues and automating network operations
 ---
 #### Tools & Tech
-- Python, JAVA, Swift, C++, C   
-- AWS Services...
-- Linux, Cisco Network...
-- AI/ML
+- Python, ShellScript
+- AWS Services
+- Linux(RHEL, Ubuntu), Cisco IOS
+- CCNA, CCNP(DCCOR, ECCOR)
 --- 
 #### Contact
 - Email: songmanship12@gmail.com
-- Blog : <a href="https://sswoook.github.io">SWJourney</a>
+- Blog : <a href="https://enjoinggo.tistory.com/notice">Glowing Network</a>

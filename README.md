@@ -11,5 +11,5 @@ I'm **SEONGWOOK**, a Network Engineer who designs and automates network infrastr
 - CCNA, CCNP(DCCOR, ECCOR)
 --- 
 #### Contact
-- Email: songmanship12@gmail.com
+- Email: glowingstar.song@gmail.com
 - Blog : <a href="https://enjoinggo.tistory.com/notice">Glowing Network</a>
